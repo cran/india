@@ -1,0 +1,15 @@
+7b6a3b12a843ce43197da2722cdb7629 *DESCRIPTION
+a92b714d49fda8ea15e03c3e83e5deca *NAMESPACE
+9367e49d252fad553f14a3275933c3b3 *R/LD.R
+a220ed452c5596d0b9613791b781d06d *R/condition.R
+8b5ee4d3414d052bc9a002b6108bbff4 *R/cooks.R
+514b7ce311c30d16de1950390a3ccb42 *R/hatvalues.R
+835a52b5ad70fda72867da504e558020 *R/leverages.R
+f61db891eb928123aba4412ca322f508 *build/partial.rdb
+27edd415947ab33a6a413d2f9eaef13a *data/portland.rda
+77f00db525521e45114c1426d7dfa95a *inst/CITATION
+c2898dd77cf809fa5f9a744ba67be7d4 *man/cooks.distance.Rd
+030be9caae7d907e7ea26b18f3b8421c *man/leverages.Rd
+100753b4684fbf593743fd31c0381f80 *man/logLik.displacement.Rd
+578f6f5737af8e425e0214ac61efa7ae *man/portland.Rd
+a822ef2f7c61ba8919db703eb12aa5dd *man/relative.condition.Rd
