@@ -2,7 +2,7 @@
 \alias{relative.condition}
 \title{Relative change in the condition number}
 \usage{
-  relative.condition(x)
+relative.condition(x)
 }
 \arguments{
   \item{x}{ the model matrix \eqn{\bold{X}}.}
